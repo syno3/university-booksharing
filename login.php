@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,13 +27,12 @@
 				<form class="login-form validate-form">
 <!---============================= USER ICON PNG======================================================-->
 					<span>
-						<img src="images/logo_3.png" class="login-form-logo" alt="user_icon.png"><!-- change the png -->
+						<img src="images/logo_3.png" class="login-form-logo" alt="user_icon.png">
 					</span>
 
 					<span class="login-form-title p-b-34 p-t-27">
 						Log in
 					</span>
-
 					<?php if(!empty($message)): ?>
 						<p class="txt1"> <?= $message ?></p>
 					<?php endif; ?>
