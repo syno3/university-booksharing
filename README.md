@@ -30,7 +30,7 @@ The website runs on mainly:
 
 ### Authors
 
-* festus murimi (syno3) murimifestus09@mail.com
+* festus murimi (syno3) murimifestus09@gmail.com
 
 ### License
 
